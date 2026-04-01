@@ -1107,6 +1107,12 @@
 		(uuid "1aa023bc-1878-4e56-8150-32c659afced0")
 	)
 	(junction
+		(at 278.13 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "28f9c2b2-44a1-49af-8563-d5508989f458")
+	)
+	(junction
 		(at 271.78 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1123,12 +1129,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4fe61f99-d8ee-4e43-b577-c4e7d76cead4")
-	)
-	(junction
-		(at 322.58 64.77)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5fbc6c70-9b6b-468d-94b4-ad29410ebdbf")
 	)
 	(junction
 		(at 309.88 64.77)
@@ -1155,16 +1155,16 @@
 		(uuid "767a3b82-ac35-4e3a-8af1-89d0e24dc5ea")
 	)
 	(junction
+		(at 278.13 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "77d847ab-c9e7-452d-aaec-47a5ed5f84ff")
+	)
+	(junction
 		(at 284.48 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "77e0a611-9168-4083-a679-878533bbcb27")
-	)
-	(junction
-		(at 322.58 59.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8607ff53-eca8-4ced-8f70-4c5ada5939de")
 	)
 	(junction
 		(at 351.79 77.47)
@@ -1356,16 +1356,6 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 59.69) (xy 322.58 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "136a4bd1-e6b2-4645-b101-d45a7bee6cfd")
-	)
-	(wire
-		(pts
 			(xy 176.53 74.93) (xy 195.58 74.93)
 		)
 		(stroke
@@ -1393,6 +1383,16 @@
 			(type default)
 		)
 		(uuid "14d976bb-6eb0-4d58-9909-94ba0f0c3be9")
+	)
+	(wire
+		(pts
+			(xy 278.13 64.77) (xy 284.48 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15531c82-c013-442c-a605-7b1c41b89cc4")
 	)
 	(wire
 		(pts
@@ -1576,7 +1576,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 59.69) (xy 322.58 59.69)
+			(xy 218.44 59.69) (xy 278.13 59.69)
 		)
 		(stroke
 			(width 0)
@@ -1613,16 +1613,6 @@
 			(type default)
 		)
 		(uuid "43d921e9-7fcb-4e56-96a6-80cf92573886")
-	)
-	(wire
-		(pts
-			(xy 322.58 64.77) (xy 309.88 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "451c9739-972d-40b1-9d8a-98cc80e9d225")
 	)
 	(wire
 		(pts
@@ -1746,6 +1736,26 @@
 	)
 	(wire
 		(pts
+			(xy 233.68 64.77) (xy 233.68 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61741d88-d1cf-4178-a347-1f45f5996405")
+	)
+	(wire
+		(pts
+			(xy 246.38 64.77) (xy 233.68 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65606db9-6bdb-4bd3-aa16-14c5f3216597")
+	)
+	(wire
+		(pts
 			(xy 129.54 80.01) (xy 138.43 80.01)
 		)
 		(stroke
@@ -1783,6 +1793,16 @@
 			(type default)
 		)
 		(uuid "73063e50-0b7e-4d49-82a8-c0375e728f04")
+	)
+	(wire
+		(pts
+			(xy 278.13 59.69) (xy 278.13 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7abd0f3f-c9f5-459b-92ba-db7c2ed99f2a")
 	)
 	(wire
 		(pts
@@ -1886,6 +1906,16 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 64.77) (xy 259.08 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90df7899-e834-4f85-baf3-d91da4db9714")
+	)
+	(wire
+		(pts
 			(xy 184.15 106.68) (xy 195.58 106.68)
 		)
 		(stroke
@@ -1903,16 +1933,6 @@
 			(type default)
 		)
 		(uuid "9417f190-7c7b-49e2-9ed4-2bfdef7736ba")
-	)
-	(wire
-		(pts
-			(xy 233.68 64.77) (xy 246.38 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "998aae39-1a5b-4912-961d-4c78e8fd317b")
 	)
 	(wire
 		(pts
@@ -1936,16 +1956,6 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 64.77) (xy 259.08 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a017b345-983e-4de3-ace2-ac7b0e72baa0")
-	)
-	(wire
-		(pts
 			(xy 176.53 82.55) (xy 181.61 82.55)
 		)
 		(stroke
@@ -1953,6 +1963,16 @@
 			(type default)
 		)
 		(uuid "a3904c6f-7549-4fba-a15c-d9cf26caea0b")
+	)
+	(wire
+		(pts
+			(xy 271.78 64.77) (xy 259.08 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a63c5190-fae8-4f0e-bcd3-1b569048e95a")
 	)
 	(wire
 		(pts
@@ -1986,16 +2006,6 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 64.77) (xy 271.78 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "abfe4802-5af4-49c4-b0f9-3c79c5e2e9a5")
-	)
-	(wire
-		(pts
 			(xy 309.88 64.77) (xy 297.18 64.77)
 		)
 		(stroke
@@ -2016,6 +2026,16 @@
 	)
 	(wire
 		(pts
+			(xy 309.88 64.77) (xy 322.58 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4b2d3a8-01fc-423b-ab16-df9676c511f0")
+	)
+	(wire
+		(pts
 			(xy 218.44 59.69) (xy 218.44 68.58)
 		)
 		(stroke
@@ -2026,6 +2046,16 @@
 	)
 	(wire
 		(pts
+			(xy 284.48 64.77) (xy 297.18 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b79bbd97-f8f6-4112-8490-b378060434b2")
+	)
+	(wire
+		(pts
 			(xy 177.8 87.63) (xy 177.8 97.79)
 		)
 		(stroke
@@ -2033,16 +2063,6 @@
 			(type default)
 		)
 		(uuid "b987a84b-aa78-48a7-b721-7c04b83daaeb")
-	)
-	(wire
-		(pts
-			(xy 233.68 67.31) (xy 233.68 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb4c167f-45ac-47e1-824c-dc502e8a8790")
 	)
 	(wire
 		(pts
@@ -2136,6 +2156,16 @@
 	)
 	(wire
 		(pts
+			(xy 278.13 59.69) (xy 327.66 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d212f2d6-b4fd-49db-8fa1-daf0b26b58e8")
+	)
+	(wire
+		(pts
 			(xy 166.37 59.69) (xy 181.61 59.69)
 		)
 		(stroke
@@ -2156,13 +2186,13 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 64.77) (xy 246.38 64.77)
+			(xy 278.13 64.77) (xy 271.78 64.77)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dab66eec-dac6-4d63-91b6-788f4e92d704")
+		(uuid "dbe8e5a4-26db-4b26-b2fe-343da80439ea")
 	)
 	(wire
 		(pts
@@ -2173,16 +2203,6 @@
 			(type default)
 		)
 		(uuid "dd398353-0d87-4107-ba76-39e180cb9427")
-	)
-	(wire
-		(pts
-			(xy 322.58 59.69) (xy 327.66 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e0f0fc72-7ef2-49e7-990b-0bb84c41bdbd")
 	)
 	(wire
 		(pts
@@ -2203,16 +2223,6 @@
 			(type default)
 		)
 		(uuid "e153a9a2-1291-494b-b2f1-951a61949be8")
-	)
-	(wire
-		(pts
-			(xy 297.18 64.77) (xy 284.48 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e3de0083-dcf6-49f7-a0d7-be97abfcbb61")
 	)
 	(wire
 		(pts
@@ -2335,7 +2345,7 @@
 		(uuid "fcb7ac96-20f3-47b0-8223-5f03fd936769")
 	)
 	(label "Vin: 8.4V-6V; Nominal Voltage: 7.2V"
-		(at 104.14 63.5 180)
+		(at 86.36 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2581,7 +2591,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 178.816 101.854 90)
 			(effects
 				(font
@@ -2652,7 +2662,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 128.5748 88.9 0)
 			(effects
 				(font
@@ -2721,7 +2731,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 219.456 72.644 90)
 			(effects
 				(font
@@ -2792,7 +2802,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 308.9148 74.93 0)
 			(effects
 				(font
@@ -2845,7 +2855,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "206ebe85-2860-4694-883d-26a1e0802841")
-		(property "Reference" "C6"
+		(property "Reference" "Ce"
 			(at 187.96 100.3299 0)
 			(effects
 				(font
@@ -2863,7 +2873,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 183.1848 105.41 0)
 			(effects
 				(font
@@ -2899,7 +2909,7 @@
 		(instances
 			(project "ANTS-Power-board"
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845/fb60ecbe-8c4e-46ea-aae5-ba0f80fe91e4"
-					(reference "C6")
+					(reference "Ce")
 					(unit 1)
 				)
 			)
@@ -2999,7 +3009,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1210"
 			(at 331.47 61.468 90)
 			(effects
 				(font
@@ -3070,7 +3080,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 217.424 86.614 90)
 			(effects
 				(font
@@ -3342,7 +3352,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 145.0848 69.85 0)
 			(effects
 				(font
@@ -3484,7 +3494,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 245.4148 74.93 0)
 			(effects
 				(font
@@ -3735,7 +3745,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 213.106 72.644 90)
 			(effects
 				(font
@@ -3805,7 +3815,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Coilcraft_XAL5030-XXX"
 			(at 162.56 59.69 0)
 			(effects
 				(font
@@ -3943,7 +3953,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 321.6148 74.93 0)
 			(effects
 				(font
@@ -4014,7 +4024,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 258.1148 74.93 0)
 			(effects
 				(font
@@ -4085,7 +4095,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 270.8148 74.93 0)
 			(effects
 				(font
@@ -4156,7 +4166,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 115.8748 88.9 0)
 			(effects
 				(font
@@ -4227,7 +4237,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 283.5148 74.93 0)
 			(effects
 				(font
@@ -4298,7 +4308,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 232.7148 74.93 0)
 			(effects
 				(font
@@ -4369,7 +4379,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 296.2148 74.93 0)
 			(effects
 				(font
@@ -4440,7 +4450,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 350.8248 74.93 0)
 			(effects
 				(font
@@ -4511,7 +4521,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 339.3948 74.93 0)
 			(effects
 				(font
