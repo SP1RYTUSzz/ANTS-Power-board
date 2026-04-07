@@ -2226,7 +2226,7 @@
 	)
 	(wire
 		(pts
-			(xy 346.71 59.69) (xy 355.6 59.69)
+			(xy 346.71 59.69) (xy 378.46 59.69)
 		)
 		(stroke
 			(width 0)
@@ -2462,6 +2462,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "5V_OUTPUT"
+		(shape input)
+		(at 378.46 59.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "be5f0a42-0380-472b-b9cc-b7d3417d5348")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 391.9076 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
