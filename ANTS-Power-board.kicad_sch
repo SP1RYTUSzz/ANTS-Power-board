@@ -2476,6 +2476,48 @@
 		)
 	)
 	(sheet
+		(at 209.55 76.2)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bcaa8026-d845-4cff-ba11-d13904bc298f")
+		(property "Sheetname" "3.3V_LDO"
+			(at 209.55 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "3.3v_LDO.kicad_sch"
+			(at 209.55 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ANTS-Power-board"
+				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 16.51 17.78)
 		(size 29.21 19.05)
 		(exclude_from_sim no)
