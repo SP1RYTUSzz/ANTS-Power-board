@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.0
+          "min_clearance": 0.3
         }
       },
       "diff_pair_dimensions": [
@@ -662,10 +662,6 @@
     [
       "433705c3-0c9b-4b35-8329-f110f6531cb8",
       "3.3v_LDO"
-    ],
-    [
-      "bcaa8026-d845-4cff-ba11-d13904bc298f",
-      "3.3V_LDO"
     ]
   ],
   "text_variables": {}
