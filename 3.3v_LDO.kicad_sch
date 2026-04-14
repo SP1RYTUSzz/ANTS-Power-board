@@ -965,6 +965,28 @@
 		)
 		(uuid "427d67ec-35d8-4fc3-8269-012d1c2b8d18")
 	)
+	(global_label "5V_OUTPUT"
+		(shape input)
+		(at 101.6 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0c3f4c36-7c75-4ce8-9c49-6ecf8bd0f914")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.1524 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "3V3_OUTPUT"
 		(shape input)
 		(at 177.8 88.9 0)
@@ -983,28 +1005,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VBAT+"
-		(shape input)
-		(at 101.6 88.9 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b2eb865e-6419-4d7c-8d1e-848740769c2e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 92.6276 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
