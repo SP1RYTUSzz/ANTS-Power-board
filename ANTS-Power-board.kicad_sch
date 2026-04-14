@@ -2178,7 +2178,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dcb16139-54b3-4242-b9dd-e2c0343f1f6b")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR01"
 			(at 27.94 190.5 0)
 			(effects
 				(font
@@ -2228,7 +2228,7 @@
 		(instances
 			(project "ANTS-Power-board"
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845"
-					(reference "#PWR08")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -2311,7 +2311,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f70b3ee2-e6c2-45f2-a95d-74f57c5af43e")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR04"
 			(at 120.65 58.42 0)
 			(effects
 				(font
@@ -2361,7 +2361,7 @@
 		(instances
 			(project "ANTS-Power-board"
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845"
-					(reference "#PWR010")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -2377,7 +2377,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc5dbeff-6d70-42b5-b248-6838332fe86c")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR03"
 			(at 120.65 39.37 0)
 			(effects
 				(font
@@ -2427,7 +2427,7 @@
 		(instances
 			(project "ANTS-Power-board"
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845"
-					(reference "#PWR09")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
