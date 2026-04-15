@@ -10326,7 +10326,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C14709"
+		(property "LCSC" "C21189"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -11540,7 +11540,7 @@
 		(effects
 			(font
 				(size 0.8 0.8)
-				(thickness 0.1)
+				(thickness 0.12)
 			)
 			(justify bottom)
 		)
@@ -11551,8 +11551,9 @@
 		(uuid "191a231f-7622-4495-8b2b-559fa33c29c9")
 		(effects
 			(font
-				(size 0.5 0.5)
-				(thickness 0.0625)
+				(size 0.6 0.6)
+				(thickness 0.1)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -11979,7 +11980,8 @@
 		(effects
 			(font
 				(size 0.6 0.6)
-				(thickness 0.075)
+				(thickness 0.1)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -11990,8 +11992,9 @@
 		(uuid "4b164719-5dd7-4e5f-93fc-6665eab5bec7")
 		(effects
 			(font
-				(size 0.5 0.5)
-				(thickness 0.0625)
+				(size 0.6 0.6)
+				(thickness 0.1)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -12003,7 +12006,8 @@
 		(effects
 			(font
 				(size 0.6 0.6)
-				(thickness 0.075)
+				(thickness 0.1)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -12015,7 +12019,8 @@
 		(effects
 			(font
 				(size 0.6 0.6)
-				(thickness 0.075)
+				(thickness 0.1)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -12027,7 +12032,8 @@
 		(effects
 			(font
 				(size 0.6 0.6)
-				(thickness 0.075)
+				(thickness 0.1)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -12090,7 +12096,8 @@
 		(effects
 			(font
 				(size 0.8 0.8)
-				(thickness 0.1)
+				(thickness 0.15)
+				(bold yes)
 			)
 			(justify bottom)
 		)
@@ -14598,9 +14605,9 @@
 		)
 		(polygon
 			(pts
-				(xy 159.5 94) (xy 164.5 94) (xy 164.5 94.5) (xy 164.5 94.5) (xy 163.5 95.5) (xy 163.5 98.039063)
-				(xy 164.960937 99.5) (xy 169 99.5) (xy 170 100.5) (xy 170 102) (xy 169 103) (xy 162 103) (xy 160 101)
-				(xy 160 95.5) (xy 159 94.5) (xy 159.5 94.5)
+				(xy 159.5 94) (xy 164.5 94) (xy 164.5 94.5) (xy 163.5 95.5) (xy 163.5 98.039063) (xy 164.960937 99.5)
+				(xy 169 99.5) (xy 170 100.5) (xy 170 102) (xy 169 103) (xy 162 103) (xy 160 101) (xy 160 95.5) (xy 159 94.5)
+				(xy 159.5 94.5)
 			)
 		)
 		(filled_polygon
