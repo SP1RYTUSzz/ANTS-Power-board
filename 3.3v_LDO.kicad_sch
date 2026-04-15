@@ -1111,7 +1111,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "71cad455-b363-4bca-a4c2-5f783efb46ed")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR019"
 			(at 142.24 111.76 0)
 			(effects
 				(font
@@ -1162,7 +1162,7 @@
 		(instances
 			(project "ANTS-Power-board"
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845/433705c3-0c9b-4b35-8329-f110f6531cb8"
-					(reference "#PWR011")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -1184,7 +1184,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d822ae9-4a14-43ee-b8cf-ace1c2b0ebeb")
-		(property "Reference" "C19"
+		(property "Reference" "C17"
 			(at 170.18 96.5199 0)
 			(effects
 				(font
@@ -1247,7 +1247,7 @@
 		(instances
 			(project "ANTS-Power-board"
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845/433705c3-0c9b-4b35-8329-f110f6531cb8"
-					(reference "C19")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -1263,7 +1263,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f0ba837-496d-470e-bcb6-de3519bc5eab")
-		(property "Reference" "C18"
+		(property "Reference" "C16"
 			(at 158.75 96.5199 0)
 			(effects
 				(font
@@ -1326,7 +1326,7 @@
 		(instances
 			(project ""
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845/433705c3-0c9b-4b35-8329-f110f6531cb8"
-					(reference "C18")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -1342,7 +1342,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b89d72f8-84b0-4500-8aa3-60f86fb840af")
-		(property "Reference" "R5"
+		(property "Reference" "R4"
 			(at 117.094 93.726 90)
 			(effects
 				(font
@@ -1403,7 +1403,7 @@
 		(instances
 			(project ""
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845/433705c3-0c9b-4b35-8329-f110f6531cb8"
-					(reference "R5")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -1552,7 +1552,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fee5755a-ff88-4b34-a7bc-efdf569f2a68")
-		(property "Reference" "C17"
+		(property "Reference" "C15"
 			(at 100.33 96.5199 0)
 			(effects
 				(font
@@ -1615,7 +1615,7 @@
 		(instances
 			(project ""
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845/433705c3-0c9b-4b35-8329-f110f6531cb8"
-					(reference "C17")
+					(reference "C15")
 					(unit 1)
 				)
 			)

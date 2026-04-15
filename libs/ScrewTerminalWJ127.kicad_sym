@@ -2,87 +2,88 @@
   (version 20211014)
   (generator https://github.com/uPesy/easyeda2kicad.py)
 
-  (symbol "MKDS1_2-3.5"
+  (symbol "WJ127-5.0-2P"
     (in_bom yes)
     (on_board yes)
     (property
       "Reference"
-      "CN"
+      "P"
       (id 0)
-      (at 0 6.35 0)
+      (at 0 0.00 0)
       (effects (font (size 1.27 1.27) ) )
     )
     (property
       "Value"
-      "MKDS1/2-3.5"
+      "WJ127-5.0-2P"
       (id 1)
-      (at 0 -6.35 0)
+      (at 0 -10.16 0)
       (effects (font (size 1.27 1.27) ) )
     )
     (property
       "Footprint"
-      "ScrewTerminal:CONN-TH_MKDS1-2-3.5"
+      "ScrewTerminalWJ127:CONN-TH_2P-P5.00_CPC3703CTR"
       (id 2)
-      (at 0 -8.89 0)
+      (at 0 -12.70 0)
       (effects (font (size 1.27 1.27) ) hide)
     )
     (property
       "Datasheet"
-      "https://lcsc.com/product-detail/Terminal-Blocks_Phoenix-Contact_MKDS1-2-3-5_MKDS1-2-3-5_C89122.html"
+      "https://lcsc.com/product-detail/Terminal-Blocks_WJ127-5-0-2P_C3703.html"
       (id 3)
-      (at 0 -11.43 0)
+      (at 0 -15.24 0)
       (effects (font (size 1.27 1.27) ) hide)
     )
     (property
       "Manufacturer"
-      "Phoenix Contact(菲尼克斯)"
+      "KANGNEX(康奈克斯电气)"
       (id 4)
-      (at 0 -13.97 0)
+      (at 0 -17.78 0)
       (effects (font (size 1.27 1.27) ) hide)
     )
     (property
       "MPN"
-      "1751248"
+      "WJ127-5.0-02P-14-00A"
       (id 5)
-      (at 0 -16.51 0)
+      (at 0 -20.32 0)
       (effects (font (size 1.27 1.27) ) hide)
     )
     (property
       "LCSC Part"
-      "C89122"
+      "C3703"
       (id 6)
-      (at 0 -19.05 0)
+      (at 0 -22.86 0)
       (effects (font (size 1.27 1.27) ) hide)
     )
     (property
       "ki_keywords"
       "Screw terminal"
       (id 8)
-      (at 0 -21.59 0)
+      (at 0 -25.40 0)
       (effects (font (size 1.27 1.27) ) hide)
     )
-    (symbol "MKDS1_2-3.5_0_1"
+    (property
+      "ki_description"
+      "WJ127-5.0-2P"
+      (id 9)
+      (at 0 -27.94 0)
+      (effects (font (size 1.27 1.27) ) hide)
+    )
+    (symbol "WJ127-5.0-2P_0_1"
       (rectangle
-        (start -1.27 3.81)
-        (end 3.81 -3.81)
+        (start -3.81 5.08)
+        (end 3.81 0.00)
         (stroke (width 0) (type default))
         (fill (type background))
       )
-      (circle
-        (center -0.51 3.05)
-        (radius 0.38)
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
       (pin unspecified line
-        (at -3.81 1.27 0)
-        (length 2.54)
+        (at -1.27 -5.08 90)
+        (length 5.08)
         (name "1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
       (pin unspecified line
-        (at -3.81 -1.27 0)
-        (length 2.54)
+        (at 1.27 -5.08 90)
+        (length 5.08)
         (name "2" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )

@@ -1,5 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/Components/easyeda2kicad.pretty/easyeda2kicad.pretty")(options "")(descr ""))
-  (lib (name "ScrewTerminal")(type "KiCad")(uri "${KIPRJMOD}/libs/ScrewTerminal.pretty")(options "")(descr ""))
+  (lib (name "ScrewTerminalWJ127")(type "KiCad")(uri "${KIPRJMOD}/libs/ScrewTerminalWJ127.pretty")(options "")(descr ""))
 )
