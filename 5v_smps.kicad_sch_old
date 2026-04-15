@@ -4031,7 +4031,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0066a763-0ca9-4d8b-9e95-13b723115095")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR05"
 			(at 91.44 99.06 0)
 			(effects
 				(font
@@ -4081,7 +4081,7 @@
 		(instances
 			(project "ANTS-Power-board"
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845/fb60ecbe-8c4e-46ea-aae5-ba0f80fe91e4"
-					(reference "#PWR013")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -4134,15 +4134,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 177.8 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2076827"
-			(at 175.26 99.0599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4221,15 +4212,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C84703"
-			(at 125.73 83.8199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "e0d63163-35ee-4ead-87a2-f3700a8f9bb9")
 		)
@@ -4255,7 +4237,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0a918624-8598-4b75-959d-b39c3dfb0060")
-		(property "Reference" "R2"
+		(property "Reference" "R3"
 			(at 327.66 72.3899 0)
 			(effects
 				(font
@@ -4300,15 +4282,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2076811"
-			(at 327.66 72.3899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "12632bc4-3b07-48ef-aa6f-f28d0988eae1")
 		)
@@ -4318,7 +4291,7 @@
 		(instances
 			(project "ANTS-Power-board"
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845/fb60ecbe-8c4e-46ea-aae5-ba0f80fe91e4"
-					(reference "R2")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -4406,7 +4379,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "285d3b78-d60a-4c5d-9ef8-5acacacb191f")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR010"
 			(at 355.6 68.58 0)
 			(effects
 				(font
@@ -4456,7 +4429,7 @@
 		(instances
 			(project "ANTS-Power-board"
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845/fb60ecbe-8c4e-46ea-aae5-ba0f80fe91e4"
-					(reference "#PWR018")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -4515,15 +4488,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C5597997"
-			(at 318.516 39.624 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "76345953-0a76-43f5-a6c9-0413dc86fbee")
 		)
@@ -4548,7 +4512,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3a16d90a-2f20-4d5c-ada1-eac84b42d83f")
-		(property "Reference" "R3"
+		(property "Reference" "R4"
 			(at 327.66 85.0899 0)
 			(effects
 				(font
@@ -4593,15 +4557,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C103067"
-			(at 327.66 85.0899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "f4c8ae4f-3c06-4df9-97f2-7c94915847c8")
 		)
@@ -4611,7 +4566,7 @@
 		(instances
 			(project "ANTS-Power-board"
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845/fb60ecbe-8c4e-46ea-aae5-ba0f80fe91e4"
-					(reference "R3")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -4628,7 +4583,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "492303bc-e9de-469d-abdd-e3aa990ccd8c")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR09"
 			(at 330.2 97.79 0)
 			(effects
 				(font
@@ -4678,7 +4633,7 @@
 		(instances
 			(project "ANTS-Power-board"
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845/fb60ecbe-8c4e-46ea-aae5-ba0f80fe91e4"
-					(reference "#PWR017")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -4695,7 +4650,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52a74a92-f3c1-425e-a349-ab78d5998d1a")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR07"
 			(at 203.2 115.57 0)
 			(effects
 				(font
@@ -4745,7 +4700,7 @@
 		(instances
 			(project ""
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845/fb60ecbe-8c4e-46ea-aae5-ba0f80fe91e4"
-					(reference "#PWR015")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -4762,7 +4717,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "535589d1-b52d-4d49-a830-d960e609347e")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR06"
 			(at 147.32 105.41 0)
 			(effects
 				(font
@@ -4812,7 +4767,7 @@
 		(instances
 			(project "ANTS-Power-board"
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845/fb60ecbe-8c4e-46ea-aae5-ba0f80fe91e4"
-					(reference "#PWR014")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -4867,15 +4822,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 143.51 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C307331"
-			(at 147.32 58.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4945,15 +4891,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 104.14 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C15850"
-			(at 100.33 83.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5032,15 +4969,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C45783"
-			(at 250.19 53.3399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "fa1d6370-dfda-47f2-a834-63f41b3c5d2c")
 		)
@@ -5111,15 +5039,6 @@
 		)
 		(property "LCSC Part" "C32628642"
 			(at 162.56 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C32628642"
-			(at 152.146 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5232,15 +5151,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C15850"
-			(at 87.63 83.8199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "43885710-9f06-4e43-b79d-8ebed94e221a")
 		)
@@ -5309,15 +5219,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C6937849"
-			(at 163.83 41.656 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "9f083be8-44e9-4b0b-b5e6-7374cf0955e1")
 		)
@@ -5344,7 +5245,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf5d52cf-481d-4142-9813-4ef501616d78")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR08"
 			(at 233.68 68.58 0)
 			(effects
 				(font
@@ -5394,7 +5295,7 @@
 		(instances
 			(project "ANTS-Power-board"
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845/fb60ecbe-8c4e-46ea-aae5-ba0f80fe91e4"
-					(reference "#PWR016")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -5449,15 +5350,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 259.08 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C45783"
-			(at 262.89 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5536,15 +5428,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C45783"
-			(at 275.59 53.3399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "6563567c-4bee-4083-9761-4764f2b524e2")
 		)
@@ -5609,15 +5492,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 116.84 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C84703"
-			(at 113.03 83.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5696,15 +5570,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C45783"
-			(at 288.29 53.3399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "6017ee71-ab4a-420b-a36b-b46ccdfb7439")
 		)
@@ -5769,15 +5634,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 233.68 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C45783"
-			(at 237.49 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5856,15 +5712,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C45783"
-			(at 300.99 53.3399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "b5a5ad4a-42a5-4f99-8a08-40c09e2b5c92")
 		)
@@ -5891,7 +5738,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f2353293-d29c-4cba-82fa-f67a5cac71fe")
-		(property "Reference" "C14"
+		(property "Reference" "C16"
 			(at 359.41 53.3399 0)
 			(effects
 				(font
@@ -5936,15 +5783,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C45783"
-			(at 359.41 53.3399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "14462fb6-a655-4b0f-9b82-2c1e449b723a")
 		)
@@ -5954,7 +5792,7 @@
 		(instances
 			(project "ANTS-Power-board"
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845/fb60ecbe-8c4e-46ea-aae5-ba0f80fe91e4"
-					(reference "C14")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -5969,7 +5807,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f585494d-0a3f-463d-a787-deeede95cdd7")
-		(property "Reference" "C13"
+		(property "Reference" "C15"
 			(at 340.106 53.34 0)
 			(effects
 				(font
@@ -6014,15 +5852,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C45783"
-			(at 340.106 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "1c4d5eb9-41c6-47c9-8b12-a09b4b2dbb31")
 		)
@@ -6032,7 +5861,7 @@
 		(instances
 			(project "ANTS-Power-board"
 				(path "/4d632659-7d2f-4407-ada5-b4e72f7be845/fb60ecbe-8c4e-46ea-aae5-ba0f80fe91e4"
-					(reference "C13")
+					(reference "C15")
 					(unit 1)
 				)
 			)
